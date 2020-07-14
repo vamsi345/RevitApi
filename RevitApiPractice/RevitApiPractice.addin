@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      10413B21-5A1B-44AB-ADA8-2EA53FFDFD59
+    </AddInId>
+    <FullClassName>RevitApiPractice.Dimensioning</FullClassName>
+    <Text>New-Dimension-Create_Demo</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      B83D2D97-6E75-488B-9CED-9E48E927D058
+    </AddInId>
+    <FullClassName>RevitApiPractice.familyDimension</FullClassName>
+    <Text>familyDimension</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      A8C563A9-6532-4B26-9FDA-5A9E3C3B158A
+    </AddInId>
+    <FullClassName>RevitApiPractice.WallCutDimension</FullClassName>
+    <Text>Wall cut dimension</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      7437AA2E-EBCF-4AD6-8A6D-9F156316B63D
+    </AddInId>
+    <FullClassName>RevitApiPractice.CollectWindows</FullClassName>
+    <Text>collect windows</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      3101C301-2395-43A8-9E7B-3B7B32D18C2C
+    </AddInId>
+    <FullClassName>RevitApiPractice.Openings</FullClassName>
+    <Text>dimension opens</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      C53326E0-D7B3-4B0F-94B3-D228ABE3E346
+    </AddInId>
+    <FullClassName>RevitApiPractice.WallOrentation</FullClassName>
+    <Text>Wall Orentation</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      3B3EAC5E-919C-4F34-8243-D74B0C7BE4D7
+    </AddInId>
+    <FullClassName>RevitApiPractice.SheetsCreate</FullClassName>
+    <Text>Create sheet</Text>
+    <Description>create sheets</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+   <AddIn Type="Command">
+    <Name>RevitApiPractice</Name>
+    <Assembly>RevitApiPractice.dll</Assembly>
+    <AddInId>
+      6610DB59-21F1-4C18-A202-C9E4AE4EB5F1
+    </AddInId>
+    <FullClassName>RevitApiPractice.RoofPlacement</FullClassName>
+    <Text>familyDimension</Text>
+    <Description>Place roof</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
