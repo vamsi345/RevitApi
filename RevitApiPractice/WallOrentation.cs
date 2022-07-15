@@ -359,7 +359,7 @@ namespace RevitApiPractice
 
                     if (newRoom == null)
                     {
-                        string msg = "创建房间失败。";
+                        string msg = "hh。";
                         TaskDialog.Show("xx", msg);
                         transaction.RollBack();
                         return null;
